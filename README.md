@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer focused on creating efficient and scalable web solutions. With expertise in both frontend and backend development, I enjoy tackling complex problems and turning ideas into reality.
+I'm a passionate Full Stack Developer focused on creating efficient and scalable web solutions. Visit my website [r3f4ct0r.com](https://r3f4ct0r.com) to learn more about my work and services.
 
 ### 🛠️ Tech Stack
 
@@ -34,61 +34,31 @@ I'm a passionate Full Stack Developer focused on creating efficient and scalable
 
 </div>
 
-## 🌟 Featured Projects
+## 🌐 Portfolio Website
 
-### 1. WooCommerce Category Scheduler
-A WordPress plugin for scheduling WooCommerce category visibility.
-- 🔧 Built with PHP, JavaScript
-- 📦 Features: Inline editing, automatic saving, status indicators
-- 🔗 [View Project](https://github.com/yourusername/woo-category-scheduler)
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/r3f4ct0r.com-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome)](https://r3f4ct0r.com)
 
-### 2. [Project Name]
-Brief description of the project
-- 🔧 Technologies used
-- 📦 Key features
-- 🔗 [View Project](project-link)
-
-### 3. [Project Name]
-Brief description of the project
-- 🔧 Technologies used
-- 📦 Key features
-- 🔗 [View Project](project-link)
-
-## 📈 GitHub Stats
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🌐 Connect with Me
+## 📫 Connect with Me
 
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-r3f4ct0r.com-blue?style=for-the-badge&logo=google-chrome)](https://r3f4ct0r.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@r3f4ct0r.com)
 
 </div>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a WordPress Plugin]()
-- [Best Practices for Full Stack Development]()
-- [Understanding Modern Web Architecture]()
-<!-- BLOG-POST-LIST:END -->
-
-## 🏆 Certifications & Achievements
-- AWS Certified Developer
-- Google Cloud Certified
-- [Other certifications/achievements]
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
   
-  💼 Open for freelance projects and collaborations
+  💼 Visit [r3f4ct0r.com](https://r3f4ct0r.com) for more information
 </div>
-****
