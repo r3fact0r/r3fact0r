@@ -43,7 +43,7 @@ I'm a passionate Full Stack Developer focused on creating efficient and scalable
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r3fact0r&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 📫 Connect with Me
@@ -58,7 +58,7 @@ I'm a passionate Full Stack Developer focused on creating efficient and scalable
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=r3fact0r&color=blueviolet" alt="Profile Views" />
   
   💼 Visit [r3f4ct0r.com](https://r3f4ct0r.com) for more information
 </div>
