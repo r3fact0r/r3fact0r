@@ -1,64 +1,122 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ff5500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+r3f4ct0r;Full+Stack+Developer" alt="Typing SVG" />
-</div>
 
-## 👨‍💻 About Me
+# Roland Nagy, PhD Candidate
+### Full Stack Developer • Software Architect • Research-Oriented Engineer
 
-I'm a passionate Full Stack Developer focused on creating efficient and scalable web solutions. 
+Building scalable web platforms, CRM/ERP systems and AI-driven business solutions  
+with a strong focus on research-backed system design and long-term maintainability.
 
-### 🛠️ Tech Stack
-
-<div align="center">
-  
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-#### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-#### Database & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-</div>
-
-## 🌐 Portfolio Website
-
-<div align="center">
-  
-[![Website](https://img.shields.io/badge/r3f4ct0r.com-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome)](https://r3f4ct0r.com)
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r3fact0r&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-## 📫 Connect with Me
-
-<div align="center">
-  
-[![Website](https://img.shields.io/badge/Website-r3f4ct0r.com-blue?style=for-the-badge&logo=google-chrome)](https://r3f4ct0r.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@r3f4ct0r.com)
+🌐 https://nagyroland.hu  
+📧 nroland89@gmail.com  
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=r3fact0r&color=blueviolet" alt="Profile Views" />
-  
+## 👋 About Me
 
+I am a **PhD candidate and senior full-stack developer** with more than **15 years of professional experience**
+in designing, building and scaling complex, business-critical software systems.
+
+My work bridges **academic-level research** and **real-world engineering**, focusing on:
+- scalable system architectures
+- data-driven and AI-supported decision systems
+- enterprise-grade CRM / ERP platforms
+- long-term maintainable software solutions
+
+Beyond hands-on development, I actively work on **research-oriented problem solving**,
+where theoretical models meet practical implementation.
+
+---
+
+## 🎓 Academic & Research Focus
+
+- PhD Candidate (research-focused)
+- Applied software engineering
+- Intelligent systems & automation
+- Data-driven architectures
+- AI-assisted business systems
+
+My research interests directly support my industry work, ensuring that solutions  
+are not only functional, but **conceptually sound, scalable and future-proof**.
+
+---
+
+## 🧠 Core Expertise
+
+- Research-driven software architecture
+- Enterprise-grade backend systems
+- CRM / ERP system design
+- AI & automation integration
+- Security-conscious and compliance-aware development
+- Business-first engineering mindset
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+- HTML5, CSS3
+- JavaScript, TypeScript
+- Angular, React
+- Tailwind CSS
+
+### Backend
+- PHP
+- Node.js
+- Python
+- REST & API-first architectures
+- WordPress (custom plugins & integrations)
+
+### Databases & Infrastructure
+- MySQL, PostgreSQL
+- MongoDB
+- Docker
+- Linux-based environments
+- CI/CD pipelines
+
+### Cloud & Tools
+- AWS
+- Cloudflare
+- Git & GitHub
+- Analytics & tracking systems
+
+---
+
+## 🚀 Selected Work
+
+- Custom CRM / ERP systems for SMEs
+- AI-powered automation solutions
+- Marketing-integrated business platforms
+- High-traffic, conversion-optimized web applications
+
+More references and case studies:
+👉 https://nagyroland.hu
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagyroland&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+---
+
+## 📫 Contact
+
+If you are looking for:
+- a senior full-stack developer
+- a software architect
+- a research-oriented technical partner
+
+Feel free to get in touch.
+
+📧 **nroland89@gmail.com**  
+🌐 **https://nagyroland.hu**
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nagyroland&color=blueviolet" alt="Profile Views" />
 </div>
