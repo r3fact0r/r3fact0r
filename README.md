@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer focused on creating efficient and scalable web solutions. Visit my website [r3f4ct0r.com](https://r3f4ct0r.com) to learn more about my work and services.
+I'm a passionate Full Stack Developer focused on creating efficient and scalable web solutions. 
 
 ### 🛠️ Tech Stack
 
@@ -60,5 +60,5 @@ I'm a passionate Full Stack Developer focused on creating efficient and scalable
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=r3fact0r&color=blueviolet" alt="Profile Views" />
   
-  💼 Visit [r3f4ct0r.com](https://r3f4ct0r.com) for more information
+
 </div>
